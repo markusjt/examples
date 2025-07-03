@@ -239,13 +239,11 @@
   "funding": [
     {
       "local_identifier": "otf___1749735109737___grant-1",
-      "titles": {
-        "en": [
-          "Finnish Foundation for Alcohol Studies"
-        ],
-        "fi": [
-          "Alkoholitutkimussäätiö"
-        ]
+      "entity_type": "grant",
+      "funding_agency": {
+        "local_identifier": "otf___1751543511846___1125",
+        "entity_type": "organisation",
+        "name": "Finnish Foundation for Alcohol Studies"
       }
     }
   ]
