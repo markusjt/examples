@@ -21,50 +21,8 @@
   "product_type": "literature",
   "related_products": {
     "cites": [
-      {
-        "local_identifier": "280f0f65d8a53b4201440ce64360cb3bf75c24e0567e68532c10f8e7937bf1ab",
-        "identifiers": [
-          {
-            "value": "urn:nbn:fi:fsd:T-FSD3400",
-            "scheme": "URN"
-          },
-          {
-            "value": "10.60686/t-fsd3400",
-            "scheme": "DOI"
-          }
-        ],
-        "entity_type": "product",
-        "titles": {
-          "en": [
-            "YouGamble 2017: Additional Finnish Data"
-          ],
-          "fi": [
-            "YouGamble 2017: Suomen lisäaineisto"
-          ]
-        }
-      },
-      {
-        "local_identifier": "a92afed3e749620b6ef51a4d812636696f407300386b6ac9cc63b34377cc18ed",
-        "identifiers": [
-          {
-            "value": "urn:nbn:fi:fsd:T-FSD3399",
-            "scheme": "URN"
-          },
-          {
-            "value": "10.60686/t-fsd3399",
-            "scheme": "DOI"
-          }
-        ],
-        "entity_type": "product",
-        "titles": {
-          "en": [
-            "YouGamble 2017: Finnish Data"
-          ],
-          "fi": [
-            "YouGamble 2017: Suomen aineisto"
-          ]
-        }
-      }
+      "280f0f65d8a53b4201440ce64360cb3bf75c24e0567e68532c10f8e7937bf1ab",
+      "a92afed3e749620b6ef51a4d812636696f407300386b6ac9cc63b34377cc18ed"
     ]
   }
 }
